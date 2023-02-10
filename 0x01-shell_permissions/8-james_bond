@@ -1,0 +1,2 @@
+#!/bin/bash
+ls ow -r-wx hello
