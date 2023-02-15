@@ -1,2 +1,2 @@
 #!/bin/bash
-count -als root
+find . -type d -not -name '.' | wc -l 
